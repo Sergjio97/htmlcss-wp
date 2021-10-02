@@ -24,6 +24,30 @@
     margin-bottom: 20px;
 }
 
+.logo {
+    margin-bottom: 20px;
+
+}
+
+#logo{
+    width: 130px;
+    vertical-align: middle;
+}
+
+nav li {
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    list-style: none;
+    margin-right: 5px;
+}
+
+a {
+    color: rgb(212, 212, 212);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 .header-bottom {
     width: 100%;
     margin-bottom: 20px;
@@ -80,6 +104,12 @@ main {
 .debug.header-top {
     height: 100px;
     background-color: rgba(229,121,230,255);
+}
+
+
+.debug nav {
+    height: 40px;
+    line-height: 40px;
 }
 
 .debug.header-bottom {
