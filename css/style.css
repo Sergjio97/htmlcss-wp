@@ -57,6 +57,18 @@ a {
     background-position: center;
 }
 
+#testo-jumbo {
+    width: 40%;
+    position: absolute;
+    bottom: 140px;
+    left: 180px;
+    color: white;
+}
+
+h2 {
+    font-size: 31px;
+}
+
 /* *** / header *** */
 
 /* *** main *** */
