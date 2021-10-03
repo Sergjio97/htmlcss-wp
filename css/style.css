@@ -81,6 +81,14 @@ main {
     width: 100%;
 }
 
+.titolo p {
+    color: rgb(212, 212, 212); 
+}
+
+.titolo h1 {
+    font-size: 30px;
+}
+
 .main-container {
     width: 100%;
     padding-top: 20px;
