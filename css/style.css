@@ -99,6 +99,20 @@ main {
     width: 20%;
     margin-right: 2%;
     float: left;
+    color: rgb(212, 212, 212);
+}
+
+h4 {
+    color: grey;
+}
+
+.box-left p{
+    font-size: 15px;
+}
+
+.box-left img {
+    width: 80%;
+    border-radius: 10px;
 }
 
 .box-right {
